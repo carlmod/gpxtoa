@@ -1,0 +1,1 @@
+Transportstyrelsen publishes some information about the possibility to empty boat tiolets as open data on their webpage. This is a tool to get that data in to a gpx file to facilitate the use of this data in openCPN and other generic software.
